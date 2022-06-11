@@ -1,5 +1,4 @@
 # Binary-Search-Tree-Projesi
-<<<<<<< HEAD
 [7, 5, 1, 8, 3, 6, 0, 9, 4, 2] dizisinin Binary-Search-Tree aşamaları
 <table width="27%" border="1" cellpadding="0" cellspacing="0">
 
@@ -238,5 +237,3 @@
 </tbody>
 
 </table>
-=======
->>>>>>> efc7dbdd9592a0ceb1c1e27d61f5fb6df9cc8b66
