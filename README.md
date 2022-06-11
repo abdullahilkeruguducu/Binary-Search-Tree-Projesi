@@ -1,4 +1,6 @@
 # Binary-Search-Tree-Projesi
+Patika dev profilim için [tıklayınız.](https://app.patika.dev/ailker)
+
 [7, 5, 1, 8, 3, 6, 0, 9, 4, 2] dizisinin Binary-Search-Tree aşamaları;
 <table width="27%" border="1" cellpadding="0" cellspacing="0">
 
